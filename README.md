@@ -6,4 +6,4 @@ Useful Automation Notes and Basic Functions
 
 ## Useful Links 
 1) [Readme Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) in case I want to add a readme update script
-2) WIP  
+2) [Command Line Arguments From Tutorial Point](https://www.tutorialspoint.com/python/python_command_line_arguments.htm) for more tips on arguments  
