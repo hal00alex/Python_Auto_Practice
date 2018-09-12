@@ -4,7 +4,7 @@ Useful Automation Notes and Basic Functions
 2) [Email_Generator](https://github.com/hal00alex/Python_Auto_Practice/blob/master/Email_Generator.py) copied from my [Email Repo](https://github.com/hal00alex/EmailGenerator)  
 3) [Hex_Address_Calculator](https://github.com/hal00alex/Python_Auto_Practice/blob/master/Hex_Address_Calculator.py) finds a location X away from base address  
 4) [defWithCommandLine.py](https://github.com/hal00alex/Python_Auto_Practice/blob/master/defWithCommandLine.py) is an example on how to get defines or arguments from command line  
-5) [gmm_food_clone.py] (https://github.com/hal00alex/Python_Auto_Practice/blob/master/gmm_food_clone.py) uses Good Mythical Morning Questions as a way to practice GIT Operations
+5) [gmm_food_clone.py](https://github.com/hal00alex/Python_Auto_Practice/blob/master/gmm_food_clone.py) uses Good Mythical Morning Questions as a way to practice GIT Operations
 
 ## Useful Links 
 1) [Readme Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) in case I want to add a readme update script
